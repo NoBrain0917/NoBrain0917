@@ -13,5 +13,5 @@
  - Android
  
 📞 연락하고 싶을 때
- - [Email](lmlstudio0917@gmail.com)
+ - lmlstudio0917@gmail.com
 
