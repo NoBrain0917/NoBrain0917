@@ -1,4 +1,6 @@
 ## Hi there 👋
+![그래프](https://github.com/NoBrain0917/NoBrain0917/blob/master/graph.png?raw=true)
+<br><br>
 
 🙋‍♂️ 나는야 평범한 중3 개발자 **Flower**
 
