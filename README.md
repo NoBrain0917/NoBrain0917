@@ -6,7 +6,8 @@
 🙋‍♂️ 나는야 평범한 고1 개발자 **Flower**
 
 🖊 내가 현재 배우고 있는 것들
- - C
+ - ![C](https://simpleicons.org/icons/c.svg)
+ - ![CPP](https://simpleicons.org/icons/cplusplus.svg)
  - UE4
  - Java
  - Javascript
