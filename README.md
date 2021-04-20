@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![표](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true)
-![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&hide=python,css)
+![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=python,css)
 <br><br>
 
 🙋‍♂️ 나는야 평범한 고1 개발자 **Flower**
