@@ -4,18 +4,17 @@
 <br><br>
 
 🙋‍♂️ 나는야 평범한 고1 개발자 **Flower**
-🖊 내가 현재 배우고 있는 것들
+ ###  🖊 내가 현재 배우고 있는 것들
  - <img src="https://img.shields.io/badge/C%23-23912?style=flat-square&logo=c%20sharp&logoColor=white"/>
- - <img src="https://img.shields.io/badge/Unity-0059?style=flat-square&logo=unity%20engine&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
  - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
  - <img src="https://img.shields.io/badge/UE4-313131?style=flat-square&logo=unreal%20engine&logoColor=white"/>
  - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
- - Typescript
- - Node.js
- - Python
- - Android
+ - <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white"/>
  
 📞 만약 연락하고 싶다면?
  - lmlstudio0917@gmail.com
-
