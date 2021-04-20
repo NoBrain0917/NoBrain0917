@@ -6,9 +6,9 @@
 🙋‍♂️ 나는야 평범한 고1 개발자 **Flower**
 
 🖊 내가 현재 배우고 있는 것들
- - <img src="https://img.shields.io/badge/C#-239120C?style=flat-square&logo=csharp&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/C#-239120C?style=flat-square&logo=c%20sharp&logoColor=white"/>
  - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
- - <img src="https://img.shields.io/badge/UE4-313131?style=flat-square&logo=unrealengine&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/UE4-313131?style=flat-square&logo=unreal%20engine&logoColor=white"/>
  - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
  - Typescript
