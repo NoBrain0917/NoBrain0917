@@ -6,7 +6,7 @@
 🙋‍♂️ 나는야 평범한 고1 개발자 **Flower**
 
 🖊 내가 현재 배우고 있는 것들
- - <img src="https://img.shields.io/badge/00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/cpp-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
  - ![CPP](https://simpleicons.org/icons/cplusplus.svg)
  - UE4
  - Java
