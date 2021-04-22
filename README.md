@@ -6,7 +6,7 @@
 I'm a normal high school developer [Flower](https://flower.msub.kr).
 
 
-# 🤓 Codes
+# 💻 Codes
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
 <img alt="ANDROID" src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
 <img alt="NODE" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
