@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight" />
 
 # 👋 Hi there
- - 🙋‍♂️ I'm a normal high school developer [Flower](https://flower.msub.kr).
+ - I'm a normal high school developer [Flower](https://flower.msub.kr).
 
 # 🤓 Language used mainly
  - I mainly use ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) and ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
