@@ -3,11 +3,11 @@
 
 # Hi there 👋 
 🙋‍♂️ I'm a normal high school developer [Flower](https://flower.msub.kr) 🌸
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight" />
-<img align="right" src="https://komarev.com/ghpvc/?username=nobrain0917" />
 
 # Language used mainly
 I mainly use ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) and ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight" />
+<img align="right" src="https://komarev.com/ghpvc/?username=nobrain0917" />
 
 
 
