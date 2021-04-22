@@ -1,14 +1,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight" />
 
+
 # Hi there 👋 
 🙋‍♂️ I'm a normal high school developer **Flower** 🌸
 
 # Github Stats   
-![뷰](https://komarev.com/ghpvc/?username=nobrain0917)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight" />
+<img align="right" src="https://komarev.com/ghpvc/?username=nobrain0917" />
 # Language used mainly
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight" />
+
 
 🙋‍♂️ I'm a normal high school developer **Flower**
  ###  🖊 내가 현재 배우고 있는 것들
