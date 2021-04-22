@@ -1,4 +1,7 @@
 ## Hi there 👋
+🙋‍♂️ I'm a normal high school developer **Flower**
+
+## Github Stats
 ![표](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight)
 ![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight)
 <br><br>
