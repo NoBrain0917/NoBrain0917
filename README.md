@@ -1,5 +1,5 @@
-## Hi there 👋
-🙋‍♂️ I'm a normal high school developer **Flower**
+## Hi there 👋 
+🙋‍♂️ I'm a normal high school developer **Flower** 🌸
 
 ## Github Stats
 ![표](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight)
