@@ -1,4 +1,4 @@
-[![banner](SungBin.png)](https://github.com/jisungbin/fashion-guide)
+[![banner](profile.png)](https://github.com/jisungbin/fashion-guide)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight" />
 
