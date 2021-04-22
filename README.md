@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight" />
 
 
-# Hi there 👋 
+# 👋 Hi there
  🙋‍♂️ I'm a normal high school developer [Flower](https://flower.msub.kr).
 
 # 🤓 Language used mainly
@@ -9,7 +9,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight" />
 <img align="right" src="https://komarev.com/ghpvc/?username=nobrain0917" />
 
-# Confident field
+# 😎 Confident field
  I'm most confident in  ![AND](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white) and ![ND](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 🖊 What I'm learning now
