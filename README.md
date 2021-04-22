@@ -3,7 +3,7 @@
 ![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight)
 <br><br>
 
-🙋‍♂️ 나는야 평범한 고1 개발자 **Flower**
+🙋‍♂️ I'm a normal high school developer **Flower**
  ###  🖊 내가 현재 배우고 있는 것들
  - <img src="https://img.shields.io/badge/C%23-23912?style=flat-square&logo=c%20sharp&logoColor=white"/>
  - <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
