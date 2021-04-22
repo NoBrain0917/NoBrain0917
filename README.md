@@ -20,5 +20,5 @@ I'm a normal high school developer [Flower](https://flower.msub.kr).
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 
 
-# 📞 What if you want to contact me?
+# ✉️ What if you want to contact me?
  lmlstudio0917@gmail.com
