@@ -2,7 +2,7 @@
 
 
 # Hi there 👋 
-🙋‍♂️ I'm a normal high school developer ![Flower](https://flower.msub.kr) 🌸
+🙋‍♂️ I'm a normal high school developer [Flower](https://flower.msub.kr) 🌸
 
 # Github Stats   
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight" />
