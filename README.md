@@ -1,9 +1,9 @@
 ![banner](https://github.com/NoBrain0917/NoBrain0917/blob/master/profile.PNG?raw=true)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight" />
 
 # 👋 Hi there
- - I'm a normal high school developer [Flower](https://flower.msub.kr).
+[![profile](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight)]()<br><br>
+I'm a normal high school developer [Flower](https://flower.msub.kr).
 
 <img align="right" src="https://komarev.com/ghpvc/?username=nobrain0917" />
 
