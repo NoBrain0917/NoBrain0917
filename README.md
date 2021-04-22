@@ -2,10 +2,9 @@
 
 
 # 👋 Hi there
-[![profile](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight)]()<br><br>
+[![profile](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight)]() ![VIEW](https://komarev.com/ghpvc/?username=nobrain0917)<br><br>
 I'm a normal high school developer [Flower](https://flower.msub.kr).
 
-<img align="right" src="https://komarev.com/ghpvc/?username=nobrain0917" />
 
 # 🤓 Codes
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
