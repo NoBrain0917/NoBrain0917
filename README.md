@@ -3,8 +3,8 @@
 
 ## Github Stats
 ![표](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight)
-![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight)
-<br><br>
+![언어](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight)     
+![뷰](https://komarev.com/ghpvc/?username=nobrain0917)
 
 🙋‍♂️ I'm a normal high school developer **Flower**
  ###  🖊 내가 현재 배우고 있는 것들
