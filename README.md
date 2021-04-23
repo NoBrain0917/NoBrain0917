@@ -8,9 +8,9 @@ I'm a normal high school developer [Flower](https://flower.msub.kr).
 
 # 💻 Codes
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
+<img alt="JS" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="ANDROID" src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
 <img alt="NODE" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="JS" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="JAVA" src="https://img.shields.io/badge/Java-00758f?style=flat-square&logo=java&logoColor=white" />
 <img alt="PY" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
