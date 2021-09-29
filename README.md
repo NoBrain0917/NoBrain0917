@@ -4,6 +4,7 @@
 # 👋 Hi there
 [![profile](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight)]()<br><br>
 I'm a normal high school developer [Flower](https://flower.msub.kr).
+###### I'm going to post ordinary projects here. <br> Important things will be posted on [another account](https://github.com/Parkym0917).
 
 
 # 💻 Codes
