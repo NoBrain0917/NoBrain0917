@@ -1,4 +1,4 @@
-![banner](https://github.com/NoBrain0917/NoBrain0917/blob/master/profile.PNG?raw=true)
+![banner](https://github.com/NoBrain0917/NoBrain0917/blob/master/profile.png?raw=true)
 
 
 # 👋 Hi there
