@@ -13,10 +13,14 @@ Now I'm studying in [MSUB](https://msub.kr), a group of students only.
 
 # 🤔 What I'm interested in...
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain0917&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
-<img alt="JS" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="ANDROID" src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
-<img alt="CS" src="https://img.shields.io/badge/C%23-23912?style=flat-square&logo=c%20sharp&logoColor=white" />
-<img alt="NODE" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="JAVA" src="https://img.shields.io/badge/Java-00758f?style=flat-square&logo=java&logoColor=white" />
-<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+<img alt="Npm" src ="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&&logo=android&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&&logo=node.js&logoColor=white" />
+<img alt="Csharp" src 
+="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-00758f?&style=for-the-badge&logo=CoffeeScript&logoColor=white" />
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+<img alt="C" src 
+="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
