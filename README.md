@@ -1,4 +1,12 @@
 ![banner](https://github.com/NoBrain0917/NoBrain0917/blob/master/profile.png?raw=true)
+<div align="center">
+<img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&&logo=android&logoColor=white" />
+<img alt="Csharp" src 
+="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-00758f?&style=for-the-badge&logo=CoffeeScript&logoColor=white" />
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+</div>
 
 <br>
 
