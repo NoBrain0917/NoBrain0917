@@ -1,4 +1,5 @@
 ![banner](https://github.com/NoBrain0917/NoBrain0917/blob/master/profile.png?raw=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdgyu789)](https://solved.ac/pdgyu789/)
 <div align="center">
 <img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&&logo=android&logoColor=white" />
 <img alt="Csharp" src 
