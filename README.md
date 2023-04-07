@@ -15,7 +15,6 @@
 It's a 17yo dream tree that dreams of a game or software developer.   
 I also develop Android often!    
 Now I'm studying in [MSUB](https://msub.kr), a group of students only.      
-###### I have a [sub account](https://github.com/Parkym0917), but I don't use it much!
 <br>
 
 
