@@ -12,7 +12,7 @@
 
 # 👋 Hi there
 [![profile](https://github-readme-stats.vercel.app/api?username=nobrain0917&show_icons=true&theme=tokyonight)]()<br><br>
-It's a 17yo dream tree that dreams of a game or software developer.   
+It's a 18yo dream tree that dreams of a game or software developer.   
 I also develop Android often!    
 Now I'm studying in [MSUB](https://msub.kr), a group of students only.      
 <br>
