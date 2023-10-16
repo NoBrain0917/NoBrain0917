@@ -1,6 +1,6 @@
 ```js
 const Flower = {
-    pronouns: "He",
+    pronouns: "He / Him",
     age: "18yo",
     work: "(hope)Software Developer",
     contact: "lmlstudio0917@gmail.com",
