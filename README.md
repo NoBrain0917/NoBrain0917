@@ -4,7 +4,7 @@ const Flower = {
     age: "18yo",
     work: "(hope)Software Developer",
     contact: "lmlstudio0917@gmail.com",
-    tech_stack: ["C#", "C++", "JAVA", "Javascript", "Typescript", "Unity", "Node.js", "GIT"],
+    main_tech_stack: ["C#", "C++", "JAVA", "Javascript", "Typescript", "Unity", "Node.js", "GIT"], // I can do just about anything
     learning: ["low-level Programming", "Node.js", "Unity", "C#"],
 };
 ```
