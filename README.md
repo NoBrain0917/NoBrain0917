@@ -1,3 +1,14 @@
+```js
+const Flower = {
+    pronouns: "He",
+    age: "18yo",
+    work: "(hope)Software Developer",
+    contact: "lmlstudio0917@gmail.com",
+    tech_stack: ["C#", "C++", "JAVA", "Javascript", "Typescript", "Unity", "Node.js", "GIT"],
+    learning: ["low-level Programming", "Node.js", "Unity", "C#"],
+};
+```
+
 ![banner](https://github.com/NoBrain0917/NoBrain0917/blob/master/profile.png?raw=true)
 <div align="center">
 <img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&&logo=android&logoColor=white" />
