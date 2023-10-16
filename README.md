@@ -9,7 +9,7 @@ const Flower = {
 };
 ```
 
-![banner](https://github.com/NoBrain0917/NoBrain0917/blob/master/profile.png?raw=true)
+![banner](https://github.com/NoBrain0917/NoBrain0917/blob/master/profile2.png?raw=true)
 <div align="center">
 <img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&&logo=android&logoColor=white" />
 <img alt="Csharp" src 
