@@ -1,7 +1,7 @@
 ```js
 const Flower = {
     pronouns: "He / Him",
-    age: "18yo",
+    age: "19yo",
     work: "(hope)Software Developer",
     contact: "lmlstudio0917@gmail.com",
     main_tech_stack: ["C#", "C++", "JAVA", "Javascript", "Typescript", "Unity", "Node.js", "GIT"], // I can do just about anything
