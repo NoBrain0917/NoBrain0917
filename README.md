@@ -1,11 +1,11 @@
 ```js
-const Flower = {
+const PYM = {
     pronouns: "He / Him",
     age: "19yo",
     work: "(hope)Software Developer",
-    contact: "lmlstudio0917@gmail.com",
-    main_tech_stack: ["C#", "C++", "JAVA", "Javascript", "Typescript", "Unity", "Node.js", "GIT"], // I can do just about anything
-    learning: ["low-level Programming", "Node.js", "Unity", "C#"],
+    contact: "pdgyu789@gmail.com",
+    main_tech: ["C#", "JAVA", "Javascript", "Unity", "Node.js"], 
+    learning: ["Android", "Dart", "about FE"],
 };
 ```
 
