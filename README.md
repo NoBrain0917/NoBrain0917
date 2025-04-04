@@ -5,7 +5,7 @@ const PYM = {
     work: "(hope)Software Developer",
     contact: "pdgyu789@gmail.com",
     main_tech: ["C#", "JAVA", "Javascript", "Unity", "Node.js"], 
-    learning: ["Android", "Dart", "about FE"],
+    learning: ["Android", "Dart", "React"],
 };
 ```
 
