@@ -1,7 +1,7 @@
 ```js
 const PYM = {
     pronouns: "He / Him",
-    age: "19yo",
+    age: "20yo",
     work: "(hope)Software Developer",
     contact: "pdgyu789@gmail.com",
     main_tech: ["C#", "JAVA", "Javascript", "Unity", "Node.js"], 
